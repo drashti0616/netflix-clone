@@ -1,3 +1,4 @@
+
 function Footer() {
   return (
     <footer className="footer">
@@ -20,9 +21,10 @@ function Footer() {
 
       <button className="service-code">Service Code</button>
 
-      <p>© 1997–2026 Netflix Clone. Educational Project.</p>
+      <p>Copyright 1997-2026 Netflix Clone. Educational Project.</p>
     </footer>
   );
 }
 
 export default Footer;
+
